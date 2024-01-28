@@ -1,0 +1,14 @@
+C:\Users\aawan\source\repos\space\space\bin\Debug\space.exe.config
+C:\Users\aawan\source\repos\space\space\bin\Debug\space.exe
+C:\Users\aawan\source\repos\space\space\bin\Debug\space.pdb
+C:\Users\aawan\source\repos\space\space\obj\Debug\space.csproj.AssemblyReference.cache
+C:\Users\aawan\source\repos\space\space\obj\Debug\space.csproj.CoreCompileInputs.cache
+C:\Users\aawan\source\repos\space\space\obj\Debug\space.exe
+C:\Users\aawan\source\repos\space\space\obj\Debug\space.pdb
+C:\Users\aawan\Desktop\week2\space\space\bin\Debug\space.exe.config
+C:\Users\aawan\Desktop\week2\space\space\bin\Debug\space.exe
+C:\Users\aawan\Desktop\week2\space\space\bin\Debug\space.pdb
+C:\Users\aawan\Desktop\week2\space\space\obj\Debug\space.csproj.AssemblyReference.cache
+C:\Users\aawan\Desktop\week2\space\space\obj\Debug\space.csproj.CoreCompileInputs.cache
+C:\Users\aawan\Desktop\week2\space\space\obj\Debug\space.exe
+C:\Users\aawan\Desktop\week2\space\space\obj\Debug\space.pdb

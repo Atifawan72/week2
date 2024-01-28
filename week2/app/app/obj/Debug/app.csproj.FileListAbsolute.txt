@@ -1,0 +1,7 @@
+C:\Users\aawan\source\repos\app\app\bin\Debug\app.exe.config
+C:\Users\aawan\source\repos\app\app\bin\Debug\app.exe
+C:\Users\aawan\source\repos\app\app\bin\Debug\app.pdb
+C:\Users\aawan\source\repos\app\app\obj\Debug\app.csproj.AssemblyReference.cache
+C:\Users\aawan\source\repos\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\aawan\source\repos\app\app\obj\Debug\app.exe
+C:\Users\aawan\source\repos\app\app\obj\Debug\app.pdb
